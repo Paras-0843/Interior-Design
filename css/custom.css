@@ -1,0 +1,56 @@
+
+/** ADD YOUR AWESOME CODES HERE **/
+.ilikeit
+{
+    padding:10px;
+    background-color:white;
+    border:4px solid black;
+
+}
+.ilikeit:hover{
+    background-color:black;
+    color:white;
+
+
+
+}
+p{
+    color:black;
+}
+.delete{
+    background-color:transparent;
+    border:2px solid black;
+    width:200px;
+    padding:10px;
+    font-weight:bold;
+    
+         }
+    .delete:hover {
+        background-color: #740e05;
+        color:white;
+    }
+
+.delete1 {
+    background-color: transparent;
+    border: 2px solid black;
+    width: 150px;
+    padding: 10px;
+    font-weight: bold;
+}
+
+    .delete1:hover {
+        background-color: #088F8F;
+        color: white;
+    }
+
+.idlikeit {
+    padding: 10px;
+    color:white;
+    background-color: #740e05;
+    border: 4px solid black;
+}
+
+    .idlikeit:hover {
+        background-color: white;
+        color: black;
+    }
